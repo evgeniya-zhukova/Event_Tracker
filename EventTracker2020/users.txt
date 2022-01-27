@@ -1,0 +1,3 @@
+John,Simpson,admin@isp.net,admin,admin
+Mary,Smith,eventorg@isp.net,eventorg,eventorg
+Evgeniya,Zhukova,evgeniya.zhukova@georgebrown.ca,eventorg,@A12345,Marlee ave

@@ -1,0 +1,10 @@
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\bin\EventTracker2020.dll.config
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\bin\EventTracker2020.dll
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\bin\EventTracker2020.pdb
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\obj\Debug\EventTracker2020.csprojAssemblyReference.cache
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\obj\Debug\EventTracker2020.csproj.CoreCompileInputs.cache
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\obj\Debug\EventTracker2020.csproj.CopyComplete
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\obj\Debug\EventTracker2020.dll
+C:\Users\polos\OneDrive\Документы\GitHub\EventTracker2020\EventTracker2020\obj\Debug\EventTracker2020.pdb

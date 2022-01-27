@@ -1,2 +1,7 @@
-# Event_Tracker
-Event_Tracker
+# Event Tracker
+
+## Used Technologies:
+ASP.NET
+
+## Description:
+The application is a group project.
